@@ -1,4 +1,5 @@
 
+
 <div align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
@@ -20,8 +21,6 @@ About Me :
 
 - :telescope: I'm a software developer and aws cloud engineer contributing to frontend and backend for building web applications.
 
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
