@@ -26,6 +26,7 @@ About Me :
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<div>
   - Node.js
   - Golang
   - JavaScript
@@ -43,8 +44,7 @@ About Me :
   - Git & GitHub
   - AWS Services
   - Docker
-
----
+<div/>
 
 
 
