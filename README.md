@@ -17,8 +17,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Nwafor Augustine Onyedikachi</h1>
-<h3>Software developer and cloud engineer with 3+ year of experience building innovative and cutting-edge business solutions for the impressive suite of clients within its global using React.js , Angular.js, JavaScript , Node.js, Golang, Rest APIs, TypeScript,  HTML5/CSS3 , SQL and AWS services. Great communication with large team, understanding project requirements and delivering clear scalable code  in a timely fashion. Experienced in problem solving skill and software development and management.</h3>
+<h1 align="center">AI/ML and Software Engineer with a passion for developing robust web applications integrated with advanced AI/ML systems. I specialize in machine learning, deep learning, computer vision, power electronics, and optimization techniques. I bring almost 5 years of software development experience and 4 years of full-time job experience, blending expertise across both domains.</h3>
 
 
 
