@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am an **AI/ML and Software Engineer** focused on designing and building **intelligent systems** that integrate seamlessly into real-world applications.
+I am AI/ML & Software Engineer with a great passion for developing robust enterprise applications,and advanced AI systems. I specialize in machine learning, deep learning, computer vision, power electronics, and research based projects.
 
 My work combines **scalable software engineering** with **advanced machine learning techniques** to solve complex, research-driven problems.
 
